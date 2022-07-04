@@ -38,7 +38,7 @@
 	<Initialization sourceURL="./segment_init.mp4?raw=true"/> -->
    <!--  <Initialization sourceURL="./video2/segment_init.mp4"/> -->
   <!--   <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/> -->
-     <SegmentURL mediaRange="0-382242" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL mediaRange="0-382244" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="382244-648933" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="648935-986286" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="986287-1396418" media="./segment_0.m4s" indexRange="24-67"/>
