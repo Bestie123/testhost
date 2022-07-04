@@ -32,7 +32,7 @@
      <S d="157696"/>
     </SegmentTimeline>
    </SegmentList>
-          <BaseURL>https://github.com/Bestie123/testhost/raw/main/video2/</BaseURL>
+          <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/</BaseURL>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <SegmentList timescale="12800">
 	<Initialization sourceURL="./segment_init.mp4?raw=true"/> -->
