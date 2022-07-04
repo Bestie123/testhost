@@ -55,6 +55,7 @@
      <SegmentURL media="./segment_4123136.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_4425216.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_4717568.m4s" indexRange="24-67"/>
+	           <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/</BaseURL>
      <SegmentURL media="./segment_5021696.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5316096.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5597696.m4s" indexRange="24-67"/>
