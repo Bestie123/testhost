@@ -47,7 +47,6 @@
      <SegmentURL media="./video2/segment_2652672.m4s" indexRange="24-67"/>
 	     </SegmentList>
 	     <SegmentList timescale="12800">
-		      <Initialization sourceURL="./video2/segment_init.mp4"/>
      <SegmentURL media="./video2/segment_2959872.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_3241472.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_3557376.m4s" indexRange="24-67"/>
