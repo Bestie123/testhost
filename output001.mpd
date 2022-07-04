@@ -40,7 +40,7 @@
   <!--   <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/> -->
      <SegmentURL mediaRange="0-382242" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="382243-648933" media="./segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL mediaRange="648934-986285" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL mediaRange="648933-986286" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="986285-1396416" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="1396417-1958674" media="./segment_0.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_1484800.m4s" indexRange="24-67"/>
