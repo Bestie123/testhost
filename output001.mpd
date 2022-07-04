@@ -34,7 +34,7 @@
    </SegmentList>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <SegmentList timescale="12800">
-	       <BaseURL>https://xvideos.com_2da64d5023226422db91a31cabf3f320-2/</BaseURL>
+	       <BaseURL>https://xvideos.com_2da64d5023226422db91a31cabf3f320-2</BaseURL>
      <Initialization sourceURL="./video2/segment_init.mp4"/>
      <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/>
      <SegmentURL mediaRange="382244-648934" media="./video2/segment_0.m4s" indexRange="24-67"/>
