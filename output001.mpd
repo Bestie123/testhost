@@ -39,26 +39,26 @@
    <!--  <Initialization sourceURL="./video2/segment_init.mp4"/> -->
   <!--   <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/> -->
   <SegmentURL mediaRange="0-382243" media="./segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL mediaRange="382244-648934" media="./video2/segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL mediaRange="648935-986286" media="./video2/segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL mediaRange="986287-1396418" media="./video2/segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL mediaRange="1396419-1958676" media="./video2/segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_1484800.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_1766400.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_2063872.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_2371072.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_2652672.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_2959872.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_3241472.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_3557376.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_3831296.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_4123136.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_4425216.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_4717568.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_5021696.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_5316096.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_5597696.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_5894656.m4s" indexRange="28-71"/>
+     <SegmentURL mediaRange="382244-648934" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL mediaRange="648935-986286" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL mediaRange="986287-1396418" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL mediaRange="1396419-1958676" media="./segment_0.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_1484800.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_1766400.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_2063872.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_2371072.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_2652672.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_2959872.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_3241472.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_3557376.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_3831296.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_4123136.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_4425216.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_4717568.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_5021696.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_5316096.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_5597696.m4s" indexRange="24-67"/>
+     <SegmentURL media="./segment_5894656.m4s" indexRange="28-71"/>
     </SegmentList>
 	    <SegmentList timescale="12800">
 <SegmentURL media="./video2/segment_5894656.m4s" indexRange="28-71"/>
