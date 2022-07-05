@@ -32,9 +32,9 @@
      <S d="157696"/>
     </SegmentTimeline>
    </SegmentList>
-          <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/</BaseURL>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <SegmentList id="1" timescale="12800">
+	          <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/</BaseURL>
 	<Initialization sourceURL="./segment_init.mp4?raw=true"/> -->
    <!--  <Initialization sourceURL="./video2/segment_init.mp4"/> -->
   <!--   <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/> -->
@@ -55,13 +55,11 @@
      <SegmentURL media="./segment_4123136.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_4425216.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_4717568.m4s" indexRange="24-67"/>
-	           <BaseURL>http://gpac.io/</BaseURL>
+	           <BaseURL>https://gpac.io/</BaseURL>
      <SegmentURL media="./segment_5021696.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5316096.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5597696.m4s" indexRange="24-67"/>
-	   <SegmentList id="1" timescale="12800">
 <SegmentURL media="./video2/segment_5894656.m4s" indexRange="28-71"/>
-    </SegmentList>
     <!-- <SegmentURL media="./segment_5894656.m4s" indexRange="28-71"/> -->
     </SegmentList>
 	    <SegmentList id="1" timescale="12800">
