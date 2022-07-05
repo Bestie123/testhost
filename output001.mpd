@@ -59,6 +59,9 @@
      <SegmentURL media="./segment_5021696.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5316096.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_5597696.m4s" indexRange="24-67"/>
+	   <SegmentList id="1" timescale="12800">
+<SegmentURL media="./video2/segment_5894656.m4s" indexRange="28-71"/>
+    </SegmentList>
     <!-- <SegmentURL media="./segment_5894656.m4s" indexRange="28-71"/> -->
     </SegmentList>
 	    <SegmentList id="1" timescale="12800">
