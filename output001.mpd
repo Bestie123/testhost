@@ -66,12 +66,12 @@
   <SegmentList timescale="12800">
     <SegmentTimeline>
      <!--  <S t="0" d="307200"/>-->
-     <S t="0" d="281600"/>
-     <S d="307200"/>
-     <S d="281600"/>
-     <S d="307200"/>
-     <S d="281600"/>
-     <S d="297472"/>
+    <!--  <S t="0" d="281600"/>-->
+    <!--  <S d="307200"/>-->
+    <!--  <S d="281600"/>-->
+   <!--   <S d="307200"/>-->
+    <!--  <S d="281600"/>-->
+     <S t="0" d="297472"/>
      <S d="307200"/>
      <S d="281600"/>
      <S d="307200"/>
@@ -92,11 +92,11 @@
     <SegmentList timescale="12800">
    <!--  <Initialization sourceURL="./video2/segment_init.mp4"/> -->
      <!--  <SegmentURL media="./video2/segment_0.m4s" indexRange="24-67"/>-->
-     <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_588800.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_896000.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_1177600.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_1484800.m4s" indexRange="24-67"/>
+  <!--    <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/>-->
+  <!--    <SegmentURL media="./video2/segment_588800.m4s" indexRange="24-67"/>-->
+   <!--   <SegmentURL media="./video2/segment_896000.m4s" indexRange="24-67"/>-->
+   <!--   <SegmentURL media="./video2/segment_1177600.m4s" indexRange="24-67"/>-->
+   <!--   <SegmentURL media="./video2/segment_1484800.m4s" indexRange="24-67"/>-->
      <SegmentURL media="./video2/segment_1766400.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_2063872.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_2371072.m4s" indexRange="24-67"/>
