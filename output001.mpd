@@ -74,7 +74,7 @@
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
    	          <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/</BaseURL>
     <SegmentList id="1" timescale="12800">
-   <!--  <Initialization sourceURL="./video2/segment_init.mp4"/> -->
+     <Initialization sourceURL="./video2/segment_init.mp4"/> 
   <!--   <SegmentURL mediaRange="0-382243" media="./video2/segment_0.m4s" indexRange="24-67"/> -->
      <SegmentURL media="./segment_2959872.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_3241472.m4s" indexRange="24-67"/>
