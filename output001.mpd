@@ -38,10 +38,6 @@
      <SegmentURL media="./segment_2371072.m4s" indexRange="24-67"/>
      <SegmentURL media="./segment_2652672.m4s" indexRange="24-67"/>
     <!-- <SegmentURL media="./segment_5894656.m4s" indexRange="28-71"/> -->
-    </SegmentList>
-	    <SegmentList id="1" timescale="12800">
-<SegmentURL media="./video2/segment_5894656.m4s" indexRange="28-71"/>
-    </SegmentList>
    </Representation>
   </AdaptationSet>
  </Period>
