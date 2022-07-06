@@ -54,7 +54,7 @@
    </Representation>
   </AdaptationSet>
  </Period>
-  <Period id="1" >
+  <Period id="1" start="PT231,24S">
   <AdaptationSet segmentAlignment="true" maxWidth="444" maxHeight="250" maxFrameRate="25" par="222:125" lang="und" startWithSAP="1">
    <SegmentList timescale="12800">
     <SegmentTimeline>
