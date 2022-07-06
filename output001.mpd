@@ -19,6 +19,18 @@
      <S d="307200"/>
      <S d="281600"/>
      <S d="307200"/>
+	 
+	      <S d="281600"/>
+     <S d="315904"/>
+     <S d="273920"/>
+     <S d="291840"/>
+     <S d="302080"/>
+     <S d="292352"/>
+     <S d="304128"/>
+     <S d="294400"/>
+     <S d="281600"/>
+     <S d="296960"/>
+     <S d="157696"/>
     </SegmentTimeline>
    </SegmentList>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
