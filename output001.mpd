@@ -54,11 +54,11 @@
    </Representation>
   </AdaptationSet>
  </Period>
-  <Period id="1" >
+  <Period id="1" start="PT0H3M51.240S">
   <AdaptationSet segmentAlignment="true" maxWidth="444" maxHeight="250" maxFrameRate="25" par="222:125" lang="und" startWithSAP="1">
    <SegmentList timescale="12800">
     <SegmentTimeline>
-     <S t="0" d="281600"/>
+     <S d="281600"/>
      <S d="315904"/>
      <S d="273920"/>
      <S d="291840"/>
