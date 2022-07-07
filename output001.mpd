@@ -85,8 +85,8 @@
      <S d="304128"/>-->
      <S t="2934272" d="294400"/>
      <S  t="3228672" d="281600"/>
-     <S  d="296960"/>
-     <S  d="157696"/> 
+     <S  t="3510272" d="296960"/>
+     <S  t="3807232" d="157696"/> 
     </SegmentTimeline>
    </SegmentList>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
