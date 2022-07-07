@@ -61,7 +61,7 @@
    </Representation>
   </AdaptationSet>
  </Period >
-  <Period id="2" duration="PT0H0M0.840S">
+  <Period id="2" duration="PT0H5M56.840S">
   <AdaptationSet id="1" segmentAlignment="true" maxWidth="444" maxHeight="250" maxFrameRate="25" par="222:125" lang="und" startWithSAP="1">
 <SupplementalProperty schemeIdUri="urn:mpeg:dash:period-continuity:2015" value="1"/> 
   <SegmentList timescale="12800">
@@ -87,7 +87,7 @@
    </SegmentList>
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <SegmentList timescale="12800">
-     <Initialization sourceURL="./video2/segment_init.mp4"/> 
+    <!--<Initialization sourceURL="./video2/segment_init.mp4"/> -->
      <SegmentURL media="./video2/segment_0.m4s" indexRange="24-67"/>
       <SegmentURL media="./video2/segment_1484800.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_1766400.m4s" indexRange="24-67"/>
