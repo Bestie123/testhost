@@ -59,8 +59,8 @@
     </SegmentList>
    </Representation>
   </AdaptationSet>
- </Period id="2">
-  <Period >
+ </Period >
+  <Period id="2">
   <AdaptationSet id="1" segmentAlignment="true" maxWidth="444" maxHeight="250" maxFrameRate="25" par="222:125" lang="und" startWithSAP="1">
 <SupplementalProperty schemeIdUri="urn:mpeg:dash:period-continuity:2015" value="1"/> 
   <SegmentList timescale="12800">
