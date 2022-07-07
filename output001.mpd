@@ -10,8 +10,8 @@
   <SupplementalProperty schemeIdUri="urn:mpeg:dash:period-continuity:2015" value="2"/> 
    <SegmentList timescale="12800">
     <SegmentTimeline>
-     <S t="0" d="307200"/>
-     <S d="281600"/>
+    <!--  <S t="0" d="307200"/>-->
+    <!--  <S d="281600"/>-->
      <S d="307200"/>
      <S d="281600"/>
      <S d="307200"/>
@@ -36,8 +36,8 @@
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <SegmentList timescale="12800">
      <Initialization sourceURL="./video2/segment_init.mp4"/>
-     <SegmentURL media="./video2/segment_0.m4s" indexRange="24-67"/>
-     <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/>
+    <!--  <SegmentURL media="./video2/segment_0.m4s" indexRange="24-67"/>-->
+     <!-- <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/>-->
      <SegmentURL media="./video2/segment_588800.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_896000.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_1177600.m4s" indexRange="24-67"/>
@@ -67,7 +67,7 @@
   <SegmentList timescale="12800">
     <SegmentTimeline>
       <!-- <S  d="307200"/> -->
-    <!--  <S  d="281600"/> -->
+      <S  d="281600"/>
       <S d="307200"/>
       <S d="281600"/>
       <S d="307200"/>
@@ -93,7 +93,7 @@
     <SegmentList timescale="12800">
      <Initialization sourceURL="./video2/segment_init.mp4"/> 
    <!--   <SegmentURL media="./video2/segment_0.m4s" indexRange="24-67"/> -->
-    <!--  <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/> -->
+      <SegmentURL media="./video2/segment_307200.m4s" indexRange="24-67"/>
       <SegmentURL media="./video2/segment_588800.m4s" indexRange="24-67"/>
      <SegmentURL media="./video2/segment_896000.m4s" indexRange="24-67"/>
       <SegmentURL media="./video2/segment_1177600.m4s" indexRange="24-67"/>
