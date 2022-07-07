@@ -66,7 +66,7 @@
 <SupplementalProperty schemeIdUri="urn:mpeg:dash:period-continuity:2015" value="1"/> 
   <SegmentList timescale="12800">
     <SegmentTimeline>
-     <!--  <S  d="307200"/>-->
+       <S  d="307200"/>
       <S t="0" d="281600"/>
      <S d="297472"/>
      <S d="307200"/>
