@@ -31,7 +31,7 @@
   <Period id="2" duration="PT0H5M56.840S">
   <AdaptationSet id="1" segmentAlignment="true" maxWidth="444" maxHeight="250" maxFrameRate="25" par="222:125" lang="und" startWithSAP="1">
 <SupplementalProperty schemeIdUri="urn:mpeg:dash:period-continuity:2015" value="1"/> 
-  <SegmentList presentationTimeOffset="1984800"  timescale="12800">
+  <SegmentList presentationTimeOffset="6984800"  timescale="12800">
     <SegmentTimeline>
      <S  d="281600"/>
      <S  d="297472"/>
