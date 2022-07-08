@@ -18,7 +18,8 @@
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C01E" width="444" height="250" frameRate="25" sar="1000:999" bandwidth="150360">
     <BaseURL>https://raw.githubusercontent.com/Bestie123/testhost/main/video2/segment_0.m4s</BaseURL>
     <SegmentList timescale="12800">
-	        <Initialization sourceURL="https://raw.githubusercontent.com/Bestie123/testhost/main/video222/segment_init.mp4"/>
+	<!-- у сегментов можно принудительно изменять адрес, если указать полный путь включая https:// -->
+	        <Initialization sourceURL="https://raw.githubusercontent.com/Bestie123/testhost/main/video2/segment_init.mp4"/>
      <SegmentURL mediaRange="0-382242"  indexRange="24-67"/>
      <SegmentURL mediaRange="382243-648933"  indexRange="24-67"/>
      <SegmentURL mediaRange="648934-986284"  indexRange="24-67"/>
